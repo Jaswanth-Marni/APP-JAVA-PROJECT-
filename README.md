@@ -36,8 +36,7 @@ Speed = (Final Position - Initial Position) / Time Taken
 
 ### Steps to Run
 
-1. Clone this repository:
-
+Clone this repository:
 
 git clone https://github.com/your-username/repository-name.git
 cd repository-name
